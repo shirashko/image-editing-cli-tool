@@ -48,7 +48,7 @@ To install the Advanced Image Editing CLI Tool, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/image-editing-cli-tool.git
+   git clone https://github.com/shirashko/image-editing-cli-tool.git
    ```
 2. Navigate to the project directory:
    ```

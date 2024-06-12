@@ -67,7 +67,7 @@ export PYTHONPATH=$(pwd)/source
 Then, use the tool by running the following command from the command line:
 
 ```
-python image_editor.py --image <path-to-image> [--filter <filter-name> --strength <value>] [--adjust <adjustment-name> <value>]...
+python image_editor.py --image <path-to-image> [--filter <filter-name> --strength <value>] [--adjust <adjustment-name> <value>]
 ```
 
 ### Examples
